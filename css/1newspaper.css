@@ -1,0 +1,470 @@
+
+.container{
+	width:1700px;
+	height:35px;
+	background-color: #f7f7f5;
+	border:1px solid pink;
+	position:relative;
+
+	display: flex;
+}
+.container .circle1{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background:#edda79;
+	margin-top:8px;
+
+}
+.container .circle2{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background:#d8f2dc;
+	margin-top:8px;
+}
+.container .circle3{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background:#f294a4;
+	margin-top:8px;
+}
+.sea{
+	width: 700px;
+	height: 25px;
+	background: white;
+	margin-top: 5px;
+	margin-left: 250px;
+
+	display: flex;
+	position: relative;
+
+
+}
+.sea span{
+	/*text-align: centr;*/
+	color: black;
+	padding-left:200px;
+	
+}
+.rd{
+	/*margin-top: 8px:*/
+	position: absolute;
+	top:5px;
+	right:10px;
+}
+.pl{
+	position: absolute;
+	left:1320px;
+	bottom: 0px;
+}
+
+.div1{
+	width: 1700px;
+	height: 100px;
+	border: 1px solid red;
+	background-color: red;
+	background-position: left;
+	color: white;
+}
+.div1 .hd{
+
+ 		text-transform: capitalize;
+ 		font-size:40px;
+
+ 		font-style:italic;
+ 		font-weight: 800px;
+}
+.div1 .div1a{
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.li{ 
+	color: white; 
+	text-decoration: none;
+	padding-left: 500px;
+
+}
+.re{ 
+	color: white; 
+	text-decoration: none;
+	padding-left: 50px;
+		padding-right: 100px;
+
+}
+.div1 .div1b{
+	width: 180px;
+	height: 20px;
+	border: 1px solid silver;
+	padding: 5px 130px 5px 0;
+
+
+}
+
+/*.div2{
+	padding-top:20px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+
+}*/
+nav{
+	with:1000px;
+}
+nav ul{
+	list-style:none;
+}
+nav ul li{
+	width:50px;
+	color: black;
+	/*background-color:orange;*/
+	text-align:center;
+	/*border-right:1px solid black;*/
+	float:left;
+
+	/*border-right: 2px solid black;*/
+	line-height:30px;
+		}
+/*nav{
+	text-decoration: none;
+	background-color:white;
+	color: black;
+	padding: 0 18px 0 3px;
+}*/
+
+.div4{
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-right: 305px;
+
+	margin-bottom: 20px;
+	display: inline;
+	float: left;
+
+	position:relative;
+}
+.div4 .div4a .bk{
+			width: 100px;
+			height: 22px;
+			background-color: red;
+			color:white;
+			padding: 5px 12px 5px 12px;
+			
+}
+.div4 .div4a .bk1{
+			width: 250px;
+			height: 22px;
+			background-color: #ebe6e6;
+			color:black;
+			padding: 5px 420px 5px 10px;
+}
+.div4 .div4b .in{
+			width: 100px;
+			height: 22px;
+			background-color: black;
+			color:white;
+			padding: 5px 20px 5px 20px;
+			
+}
+.div4 .div4b .in1{
+			width: 250px;
+			height: 22px;
+			background-color: #ebe6e6;
+			color:black;
+			padding: 5px 600px 5px 10px;
+
+}
+
+.div4 .div4c .ph1{
+	width: 250px;
+	height: 80px;
+	border: 1px solid red;
+	background:url('../img/alpaca.jpg');
+
+	position: absolute;
+	top:35px;
+	left:980px;
+	right:150px;
+}
+
+.div5{
+	width:480px;
+	height:800px;
+	border:1px solid red;
+	margin-top:50px;
+	float: left;
+
+	position:relative;
+
+
+}
+
+.div6{
+	padding-left: 35px;
+	width:380px;
+	height:800px;
+	border:1px solid red;
+	margin-top:50px;
+	float:left;
+
+	position:relative;
+
+
+}
+
+
+.div6 p{
+	
+	font-family: 'Arial rounded MT';
+	text-transform:uppercase;
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: red;
+
+}
+.div6b .p2{
+	
+	
+	font-family: 'Arial rounded MT';
+	text-transform: capitalize;
+	font-size: 20px;
+	font-weight: 15px;
+	color: black;
+
+	text-align: justify;
+	
+	
+}
+.div6d .p3{
+	font-family: 'Arial rounded MT';
+	text-transform: capitalize;
+	font-size: 20px;
+	font-weight: 15px;
+	color: black;
+
+	text-align: justify-all;
+	
+
+}
+.div7{
+	padding-left: 35px;
+	width:350px;
+	height:800px;
+	border:1px solid red;
+	margin-top:50px;
+	
+	float:left;
+	position:relative;
+}
+
+.div7a{
+
+	float: left;
+}
+.div7 .div7b{
+	
+	float left:
+	
+}
+.div7 .div7b p{
+
+		font-family: 'Arial rounded MT';
+	text-transform:uppercase;
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: red;
+	position: absolute;
+	left:150px;
+	
+
+}
+.div7 .div7b .p1{
+font-family: 'Arial rounded MT';
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: black;
+	position: absolute;
+	left:150px;
+
+}
+.t1{
+	font-family: 'Arial rounded MT';
+	color: grey;
+	position: absolute;
+	left:150px;
+}
+
+.div8a{
+
+	float: left;
+}
+.div8 .div8b{
+	
+	float left:
+	
+}
+.div8 .div8b p{
+
+	font-family: 'Arial rounded MT';
+	text-transform:uppercase;
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: red;
+	position: absolute;
+	left:150px;
+	
+
+}
+.div7 .div8 .p1{
+font-family: 'Arial rounded MT';
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: black;
+	position: absolute;
+	left:150px;
+
+}
+.div8b .t1{
+	font-family: 'Arial rounded MT';
+	color: grey;
+	position: absolute;
+	left:150px;
+	}
+
+.div9a{
+
+	float: left;
+}
+ .div9b{
+	
+	float left:
+	
+}
+.div9b p{
+
+	font-family: 'Arial rounded MT';
+	text-transform:uppercase;
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: red;
+	position: absolute;
+	left:150px;
+	
+
+}
+.div7 .div9 .p1{
+font-family: 'Arial rounded MT';
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: black;
+	position: absolute;
+	left:150px;
+
+}
+.div9b .t1{
+	font-family: 'Arial rounded MT';
+	color: grey;
+	position: absolute;
+	left:150px;
+	}
+
+.div10a{
+
+	float: left;
+}
+ .div10b{
+	
+	float left:
+	
+}
+.div10b p{
+
+	font-family: 'Arial rounded MT';
+	text-transform:uppercase;
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: red;
+	position: absolute;
+	left:150px;
+	
+
+}
+.div7 .div10 .p1{
+font-family: 'Arial rounded MT';
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: black;
+	position: absolute;
+	left:150px;
+
+}
+.div10b .t1{
+	font-family: 'Arial rounded MT';
+	color: grey;
+	position: absolute;
+	left:150px;
+	}
+
+.div11a{
+
+	float: left;
+}
+ .div11b{
+	
+	float left:
+	
+}
+.div11b p{
+
+	font-family: 'Arial rounded MT';
+	text-transform:uppercase;
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: red;
+	position: absolute;
+	left:150px;
+	
+
+}
+.div7 .div11 .p1{
+font-family: 'Arial rounded MT';
+	font-size: 15px;
+	font-weight: 20px;
+	
+	color: black;
+	position: absolute;
+	left:150px;
+
+}
+.div11b .t1{
+	font-family: 'Arial rounded MT';
+	color: grey;
+	position: absolute;
+	left:150px;
+	}
+
+.f{
+	width: 100%;
+	height: 50px;
+	border: 1px solid red;
+	font-family: 'Arial rounded MT';
+	font-size: 20px;
+	color: blue;
+	padding-top:25px;
+	clear: both;
+
+	background:url('../img/newspaper/tr1.jpg');
+
+	
+}
